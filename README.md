@@ -11,6 +11,7 @@ Welcome to the official documentation for **GTPbinder**, a specialized computati
 Chauhan JS, Mishra NK, Raghava GPS (2010).  
 **Prediction of GTP interacting residues, dipeptides and tripeptides in a protein from its evolutionary information.** *BMC Bioinformatics*, 11, 301.  
 [https://doi.org/10.1186/1471-2105-11-301](https://doi.org/10.1186/1471-2105-11-301) 
+Zenodo:-(https://doi.org/10.5281/zenodo.20069401)
 
 ---
 
